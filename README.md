@@ -2,7 +2,7 @@
 
 <p align="center">
 <picture>
-  <img alt="MicroPython Logo" src="purpose_logo.png" width="20%" hight="20%" >
+  <img alt="Purpose Logo" src="purpose_logo.png" width="20%" hight="20%" >
 </picture>
 </p>
 
