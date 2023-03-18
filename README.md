@@ -18,7 +18,7 @@ This repo is created for the robotics and AI workshop at Birzeit university (Mar
       <p>Code samples for micro:bit, Raspberry Pi models (Car model - Raspbot, Robotics Arm - DofBot).</p>
     </li>
     <li>
-      <a href="drone">Drone</a>
+      <a href="drones">Drone</a>
       <p>Code samples for Air:bit (drone kit powered by micro:bit).</p>
     </li>
     <li>
