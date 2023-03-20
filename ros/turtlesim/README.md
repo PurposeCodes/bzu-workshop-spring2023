@@ -60,7 +60,50 @@ Take a look on the image below for drawing triangle using the turtle.
 </picture>
 </p>
 
-### Exercise
+#### Explore `turtlesim_node` info
+
+Listing the nodes:
+
+```sh
+rosnode list
+```
+
+```sh
+rosnode info /turtlesim
+```
+
+#### Explore `turtle` topics info
+
+Listing the topics:
+
+```sh
+rostopic list
+```
+
+Listing the turtle command velocity topic:
+
+```sh
+rostopic info /turtle1/cmd_vel
+```
+
+Notice that the messages type of `cmd_vel` topic is `geometry_msgs/Twist`
+
+#### Explore `Twist` message info
+
+```sh
+rosmsg show geometry_msgs/Twist
+```
+
+------------
+
+### Exercises
+
+
+#### Exercise 1
+
+Explore info for `Pose` messages in `turtlesim` node.
+
+#### Exercise 2
 
 Try to figure out the purpose of this command:
 
@@ -69,6 +112,5 @@ rostopic echo /turtle1/cmd_vel
 ```
 
 </br>
-
 
 _Purpose Team_
