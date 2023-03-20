@@ -133,6 +133,5 @@ rosrun rqt_graph rqt_graph
 
 </br>
 
-**Thanks for attending workshop**
 
 _Purpose Team_
