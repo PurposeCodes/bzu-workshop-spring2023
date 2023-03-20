@@ -11,7 +11,7 @@ This repo is created for the robotics and AI workshop at Birzeit university (Mar
 ## Table of contents:
 
 <details>
-  <summary open="True" >Click here</summary>
+  <summary open="True" >Click Here</summary>
   <ol>
     <li>
       <a href="ros">ROS</a>
