@@ -127,7 +127,7 @@ cd bzu_ws/src
 catkin_create_pkg ros_demo std_msgs rospy roscpp
 ```
 
-Defualt packages (```std_msgs rospy roscpp```)
+Default packages (```std_msgs rospy roscpp```)
 
 Our created package (```ros_demo```)
 
@@ -138,6 +138,13 @@ cd bzu_ws/
 
 catkin_make
 ```
+
+### ROS Examples:
+
+<ul>
+  <li><a href="pub_sub\README.md">Publisher/Subscriber Example</a></li>
+  <li><a href="turtlesim\README.md">TurtleSim Example</a></li>
+</ul>
 
 </br>
 
