@@ -14,16 +14,8 @@ This repo is created for the robotics and AI workshop at Birzeit university (Mar
   <summary open="True" >Click here</summary>
   <ol>
     <li>
-      <a href="robotics">Robotics</a>
-      <p>Code samples for micro:bit, Raspberry Pi models (Car model - Raspbot, Robotics Arm - DofBot).</p>
-    </li>
-    <li>
-      <a href="drones">Drone</a>
-      <p>Code samples for Air:bit (drone kit powered by micro:bit).</p>
-    </li>
-    <li>
       <a href="ros">ROS</a>
-      <p>Code samples for Robot Operating System (ROS).</p>
+      <p>Code samples for Robot Operating System (ROS): Pub/Sub, Turtlesim, rviz</p>
     </li>
     <li>
       <a href="cv">Computer Vision</a>
