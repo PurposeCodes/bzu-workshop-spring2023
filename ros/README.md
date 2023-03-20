@@ -148,8 +148,5 @@ catkin_make
 
 </br>
 
-**Reference:** http://wiki.ros.org/kinetic/Installation/Ubuntu
-
-**Thanks for attending workshop**
 
 _Purpose Team_

@@ -32,16 +32,43 @@ rosrun turtlesim turtlesim_node
 
 After running this command, you'll see a graphical representation for turtle.
 
+<p align="center">
+<picture>
+  <img alt="Turtlesim Window" src="turtlesim_node.png" width="40%" hight="35%" >
+</picture>
+</p>
+
 You'll notice that you can't control turtle movement.
 
 ------------
 
 ### Run the `turtle_teleop_key`
 
-There is a built-in 
+There is a built-in feature `turtle_teleop_key` that takes the keyboard input from the user and convert it to ROS msg that controls the turtle position:
+
+```sh
+rosrun turtlesim turtle_teleop_key
+```
+
+Now, you can control the turtle's position from your keyboard.
+
+Take a look on the image below for drawing triangle using the turtle.
+
+<p align="center">
+<picture>
+  <img alt="Turtlesim Window" src="turtlesim_with_teleop_node.png" width="70%" hight="60%" >
+</picture>
+</p>
+
+### Exercise
+
+Try to figure out the purpose of this command:
+
+```sh
+rostopic echo /turtle1/cmd_vel
+```
 
 </br>
 
-**Thanks for attending workshop**
 
 _Purpose Team_
