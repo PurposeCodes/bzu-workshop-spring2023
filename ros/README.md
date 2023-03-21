@@ -144,6 +144,7 @@ catkin_make
 <ul>
   <li><a href="pub_sub\README.md">Publisher/Subscriber Example</a></li>
   <li><a href="turtlesim\README.md">TurtleSim Example</a></li>
+  <li><a href="turtlebot_rviz\README.md">TurtleBot RViz Example</a></li>
 </ul>
 
 </br>

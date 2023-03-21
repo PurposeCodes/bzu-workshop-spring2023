@@ -15,7 +15,7 @@ This repo is created for the robotics and AI workshop at Birzeit university (Mar
   <ol>
     <li>
       <a href="ros">ROS</a>
-      <p>Code samples for Robot Operating System (ROS): Pub/Sub, Turtlesim, rviz</p>
+      <p>Code samples for Robot Operating System (ROS): Pub/Sub, Turtlesim, RViz</p>
     </li>
     <li>
       <a href="cv">Computer Vision</a>
