@@ -64,7 +64,7 @@ Also, after running the same command; you can see the 2D stage for TurtleBot rob
 
 ### Exercise
 
-Try to apply the movement code on TurtleBot in RViz environemt
+Try to apply the movement code on TurtleBot in RViz environment
 
 
 </br>
