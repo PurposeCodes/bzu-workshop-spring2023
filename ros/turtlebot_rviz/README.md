@@ -7,7 +7,7 @@
 </p>
 
 
-## ROS Example 3: Turtlbot Simulation using RViz
+## ROS Example 3: TurtleBot Simulation using RViz
 
 In this example, we'll work on 3D simulation for TurtleBot 2 using RViz in ROS.
 
